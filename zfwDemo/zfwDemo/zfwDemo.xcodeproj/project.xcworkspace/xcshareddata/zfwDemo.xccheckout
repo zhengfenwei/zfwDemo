@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>77FFEDC4-2963-48E6-A8DC-5A048DFD6CAB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>zfwDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27816768BB2984E43EDBBCEFFABAE59B37806D33</key>
+		<string>https://github.com/zhengfenwei/zfwDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>zfwDemo/zfwDemo/zfwDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27816768BB2984E43EDBBCEFFABAE59B37806D33</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhengfenwei/zfwDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>27816768BB2984E43EDBBCEFFABAE59B37806D33</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27816768BB2984E43EDBBCEFFABAE59B37806D33</string>
+			<key>IDESourceControlWCCName</key>
+			<string>zfwDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

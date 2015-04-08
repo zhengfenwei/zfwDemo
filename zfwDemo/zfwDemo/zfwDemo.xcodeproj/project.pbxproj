@@ -14,6 +14,7 @@
 		844D6D901AD5253E00A77554 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 844D6D8F1AD5253E00A77554 /* Images.xcassets */; };
 		844D6D931AD5253E00A77554 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 844D6D911AD5253E00A77554 /* LaunchScreen.xib */; };
 		844D6D9F1AD5253F00A77554 /* zfwDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 844D6D9E1AD5253F00A77554 /* zfwDemoTests.m */; };
+		844D6DAD1AD5297800A77554 /* zfwViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 844D6DAC1AD5297800A77554 /* zfwViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		844D6D981AD5253F00A77554 /* zfwDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = zfwDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		844D6D9D1AD5253F00A77554 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		844D6D9E1AD5253F00A77554 /* zfwDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = zfwDemoTests.m; sourceTree = "<group>"; };
+		844D6DAB1AD5297800A77554 /* zfwViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zfwViewController.h; sourceTree = SOURCE_ROOT; };
+		844D6DAC1AD5297800A77554 /* zfwViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = zfwViewController.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				844D6D8F1AD5253E00A77554 /* Images.xcassets */,
 				844D6D911AD5253E00A77554 /* LaunchScreen.xib */,
 				844D6D821AD5253E00A77554 /* Supporting Files */,
+				844D6DAB1AD5297800A77554 /* zfwViewController.h */,
+				844D6DAC1AD5297800A77554 /* zfwViewController.m */,
 			);
 			path = zfwDemo;
 			sourceTree = "<group>";
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				844D6DAD1AD5297800A77554 /* zfwViewController.m in Sources */,
 				844D6D8B1AD5253E00A77554 /* ViewController.m in Sources */,
 				844D6D881AD5253E00A77554 /* AppDelegate.m in Sources */,
 				844D6D851AD5253E00A77554 /* main.m in Sources */,
@@ -412,6 +418,7 @@
 				844D6DA41AD5253F00A77554 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		844D6DA51AD5253F00A77554 /* Build configuration list for PBXNativeTarget "zfwDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +427,7 @@
 				844D6DA71AD5253F00A77554 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,9 +2,9 @@ Pod::Spec.new do |s|
   s.name             = "zfwDemo"  
   s.version          = "1.0.0"  
   s.summary          = "A demo view used on iOS."  
-  s.description      = <<-DESC  
-                       It is a marquee view used on iOS, which implement by Objective-C.  
-                       DESC  
+  s.description      = <<-DESC
+It is a marquee view used on iOS, which implement by Objective-C.  
+                       DESC
   s.homepage         = "https://github.com/zhengfenwei/zfwDemo"  
   # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"  
   s.license          = 'MIT'  
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   # s.osx.deployment_target = '10.7'  
   s.requires_arc = true  
   
-  s.source_files = 'zfwDemo/*'  
+  s.source_files = 'zfwDemo/zfwDemo/*'
   # s.resources = 'Assets'  
   
   # s.ios.exclude_files = 'Classes/osx'  
